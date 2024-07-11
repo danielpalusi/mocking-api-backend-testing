@@ -1,0 +1,15 @@
+{
+  "name": "mocking-api-backend-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Daniel Panggabean",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "cypress": "^13.13.0"
+  }
+}
