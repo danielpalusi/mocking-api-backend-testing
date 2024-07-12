@@ -97,6 +97,7 @@ describe("Mocking API", () => {
 
         expect(response.status).to.eq(200);
         expect(message).to.equal("success");
+        expect();
       });
     });
   });
