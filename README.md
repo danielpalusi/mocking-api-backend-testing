@@ -10,3 +10,5 @@ How to run:
 - Run "npm test" on terminal to run the test
 - Optional: Run "npm cypress open" to open Cypress Test Runner
 - DONE
+
+This repo's support basic CI/CD eventhough only have 1 branch 😆
